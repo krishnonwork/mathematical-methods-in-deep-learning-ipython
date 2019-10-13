@@ -1,0 +1,8 @@
+*/.ipynb_checkpoints/*
+*.gz
+*.aux
+*.log
+*.out
+.ipynb*
+*.pyc
+tags
