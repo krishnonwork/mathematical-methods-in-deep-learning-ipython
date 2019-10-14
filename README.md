@@ -7,6 +7,9 @@ This repository contains the example code - mostly in Numpy and PyTorch - corres
 the theoretical topics introduced in the book. The code listings are organized in chapters
 that correspond to the main book.
 
+## Installation 
+pip install -r requirements.txt
+
 ## Table of Contents
 
 * Chapter 2:
