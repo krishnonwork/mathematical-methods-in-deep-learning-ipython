@@ -6,3 +6,5 @@
 .ipynb*
 *.pyc
 tags
+.idea/*
+*.swp
