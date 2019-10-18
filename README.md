@@ -7,8 +7,16 @@ This repository contains the example code - mostly in Numpy and PyTorch - corres
 the theoretical topics introduced in the book. The code listings are organized in chapters
 that correspond to the main book.
 
-## Installation 
-pip install -r requirements.txt
+## Installation
+1. Create virtual environment: `virtualenv venv`
+2. Activate virtual environment: `source venv/bin/activate` 
+3. Install dependencies: `pip install -r requirements.txt`
+4. Navigate to the python directory: `cd python`
+5. Start jupyter: `jupyter notebook`
+
+This will redirect you to a browser window with the ipython notebooks 
+
+Note: Setup works with both python2 and python3
 
 ## Table of Contents
 
