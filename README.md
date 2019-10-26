@@ -8,11 +8,12 @@ the theoretical topics introduced in the book. The code listings are organized i
 that correspond to the main book.
 
 ## Installation
-1. Create virtual environment: `virtualenv venv`
-2. Activate virtual environment: `source venv/bin/activate` 
-3. Install dependencies: `pip install -r requirements.txt`
-4. Navigate to the python directory: `cd python`
-5. Start jupyter: `jupyter notebook`
+1. Clone the repository: `git clone https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython.git`
+2. Create virtual environment: `virtualenv venv`
+3. Activate virtual environment: `source venv/bin/activate` 
+4. Install dependencies: `pip install -r requirements.txt`
+5. Navigate to the python directory: `cd python`
+6. Start jupyter: `jupyter notebook`
 
 This will redirect you to a browser window with the ipython notebooks 
 
@@ -26,15 +27,15 @@ Note: Setup works with both python2 and python3
   * [2.7 Basic Vector and Matrix operations](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.7-transpose-dot-matmul-numpy-pytorch.ipynb)
   * [2.12.5 Solving an overdetermined system using pseudo inverse](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.12.5-overdet-numpy.ipynb)
   * [2.13 Eigenvalues and Eigenvectors](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.13-eig-numpy.ipynb)
-  * [2.14.1 Rotation Matrices](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.14.1-rotation-numpy.ipynb)
-  * [2.15.1 Matrix Diagonalization](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.15.1-mat-diagonalization-numpy.ipynb)
-  * [2.15.2 Spectral Decomposition of a Symmetric Matrix](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.15.2-spectral-decomp-numpy.ipynb)
-  * [2.15.5 Finding the axes of a hyper-ellipse](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.15.5-hyper-ellipse-numpy.ipynb)
+  * [2.14 Rotation Matrices](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.14-rotation-numpy.ipynb)
+  * [2.15 Matrix Diagonalization](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.15-mat-diagonalization-numpy.ipynb)
+  * [2.16 Spectral Decomposition of a Symmetric Matrix](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.16-spectral-decomp-numpy.ipynb)
+  * [2.17 Finding the axes of a hyper-ellipse](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.17-hyper-ellipse-numpy.ipynb)
   
   
 * Chapter 3
-  * [3.4 Common code for chapter 3](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4.1-gradients-numpy-pytorch.ipynb)
-  * [3.4.1 Gradient Descent](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4-common.ipynb)
+  * [3.4 Common code for chapter 3](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4-common.ipynb)
+  * [3.4.1 Gradient Descent](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4.1-gradients-numpy-pytorch.ipynb)
   * [3.4.2 Non-linear Models](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4.2-gradients-nonlinear-numpy-pytorch.ipynb)
   * [3.4.3 A Linear Model for the cat-brain](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4.3-gradients-catbrain-numpy-pytorch.ipynb)
   
