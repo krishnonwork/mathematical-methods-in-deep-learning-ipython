@@ -1,8 +1,6 @@
-# Mathematical Methods in Deep Learning
+# Math for Deep Learning
 
-Python code (in the form of Jupyter ipython notebooks) to support the book
-
-Title: "**Math for Deep Learning**".
+Python code (in the form of Jupyter ipython notebooks) to support the book "**Math for Deep Learning**".
 
 Code contributors: **Ananya Ashok Honnedevasthana, Sujay Narumanchi, Devashish Shankar, Krishnendu Chaudhury**.
 
