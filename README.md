@@ -1,8 +1,8 @@
 # Math for Deep Learning
 
-Python code (in the form of Jupyter ipython notebooks) to support the book "**Math for Deep Learning**".
+Python code (in the form of Jupyter ipython notebooks) to support the book "**Math and Architectures of Deep Learning**".
 
-Code contributors: **Ananya Ashok Honnedevasthana, Sujay Narumanchi, Devashish Shankar, Krishnendu Chaudhury**.
+Code contributors: **Ananya Ashok, Sujay Narumanchi, Devashish Shankar, Krishnendu Chaudhury**.
 
 This repository contains the example code - mostly in Numpy and PyTorch - corresponding to
 the theoretical topics introduced in the book. The code listings are organized in chapters
