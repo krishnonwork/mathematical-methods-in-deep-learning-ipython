@@ -1,4 +1,4 @@
-# Math for Deep Learning
+# Math and Architectures of Deep Learning
 
 Python code (in the form of Jupyter ipython notebooks) to support the book "**Math and Architectures of Deep Learning**".
 
