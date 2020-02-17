@@ -47,5 +47,6 @@ Note: Setup works with both python2 and python3
   * [4.3.3 PCA on synthetic correlated non-linear data](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.3.3-pca-nonlinear-numpy.ipynb)
   * [4.4.4 Linear system solving via SVD](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.4.4-svd-linear-system-numpy.ipynb)
   * [4.4.5 PCA computation via SVD](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.4.5-svd-pca-numpy.ipynb)
-  * [4.5.3 LSA/SVD on a 500 × 3 dataset](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.5.3-svd-lsa-numpy.ipynb)
+  * [4.5.3 LSA on a toy dataset](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.5.3-svd-lsa-toy-dataset-numpy.ipynb)
+  * [4.5.4 LSA/SVD on a 500 × 3 dataset](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.5.4-svd-lsa-numpy.ipynb)
   
