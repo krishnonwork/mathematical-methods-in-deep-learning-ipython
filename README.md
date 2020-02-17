@@ -10,7 +10,7 @@ that correspond to the main book.
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython.git`
-2. Create virtual environment: `virtualenv venv`
+2. Create virtual environment: `virtualenv venv` (you may need to do  `pip install virtualenv` first)
 3. Activate virtual environment: `source venv/bin/activate` 
 4. Install dependencies: `pip install -r requirements.txt`
 5. Navigate to the python directory: `cd python`
