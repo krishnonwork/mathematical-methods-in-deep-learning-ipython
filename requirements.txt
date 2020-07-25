@@ -1,8 +1,9 @@
-future==0.18.2 # Required for torch==1.4.0 to work with python2
+future==0.18.2
+ipympl==0.5.7
 jupyter==1.0.0
 matplotlib==2.2.4
 numpy==1.16.5
-torch==1.4.0
-torchvision==0.5.0
+torch==1.5.1
+torchvision==0.6.1
 opencv-python==4.1.1.26
 sympy==1.4
