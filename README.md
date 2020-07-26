@@ -19,7 +19,7 @@ that correspond to the main book.
 
 This will redirect you to a browser window with the ipython notebooks 
 
-Note: Setup works with both python2 and python3
+Note: Ensure to use Python3 to run the notebooks
 
 ## Table of Contents
 
@@ -50,4 +50,11 @@ Note: Setup works with both python2 and python3
   * [4.4.5 PCA computation via SVD](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.4.5-svd-pca-numpy.ipynb)
   * [4.5.3 LSA on a toy dataset](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.5.3-svd-lsa-toy-dataset-numpy.ipynb)
   * [4.5.4 LSA/SVD on a 500 × 3 dataset](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.5.4-svd-lsa-numpy.ipynb)
+
+* Chapter 5
+  * [5.9.1 Uniform Random Distribution](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch5/5.9.1-uniform-random-distribution.ipynb)
+  * [5.9.2 Normal Distribution](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch5/5.9.2-normal-distribution.ipynb)
+  * [5.9.3 Binomial Distribution](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch5/5.9.3-binomial-distribution.ipynb)
+  * [5.9.4 Multinomial Distribution](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch5/5.9.4-multinomial-distribution.ipynb)
+  * [5.9.5 Bernoulli Distribution](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch5/5.9.5-bernoulli-distribution.ipynb)
   
