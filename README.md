@@ -63,5 +63,5 @@ Note: Ensure to use Python3 to run the notebooks
   * [6.3.1 Cross Entropy](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch6/6.3.1-cross-entropy.ipynb)
   * [6.4.2 KL Divergence](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch6/6.4.2-kullback-leibler-divergence.ipynb)
   * [6.7.1 Model Parameter Estimation](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch6/6.7.1-model-parameter-estimation.ipynb)
-  * [6.8.2 Gaussian Mixture Modeling](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch6/6.8.2-gaussian-mixture-models.ipynb)
+  * [6.8.2 Gaussian Mixture Modelling](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch6/6.8.2-gaussian-mixture-models.ipynb)
 
