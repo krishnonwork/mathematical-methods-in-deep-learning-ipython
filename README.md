@@ -58,3 +58,10 @@ Note: Ensure to use Python3 to run the notebooks
   * [5.9.4 Multinomial Distribution](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch5/5.9.4-multinomial-distribution.ipynb)
   * [5.9.5 Bernoulli Distribution](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch5/5.9.5-bernoulli-distribution.ipynb)
   
+* Chapter 6
+  * [6.2.2 Entropy](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch6/6.2.2-entropy-gaussian.ipynb)
+  * [6.3.1 Cross Entropy](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch6/6.3.1-cross-entropy.ipynb)
+  * [6.4.2 KL Divergence](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch6/6.4.2-kullback-leibler-divergence.ipynb)
+  * [6.7.1 Model Parameter Estimation](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch6/6.7.1-model-parameter-estimation.ipynb)
+  * [6.8.2 Gaussian Mixture Modeling](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch6/6.8.2-gaussian-mixture-models.ipynb)
+
