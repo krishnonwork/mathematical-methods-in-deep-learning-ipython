@@ -65,3 +65,11 @@ Note: Ensure to use Python3 to run the notebooks
   * [6.7.1 Model Parameter Estimation](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch6/6.7.1-model-parameter-estimation.ipynb)
   * [6.8.2 Gaussian Mixture Modelling](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch6/6.8.2-gaussian-mixture-models.ipynb)
 
+* Chapter 7
+  * [7.2.3 Perceptron](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch7/7.2.3-perceptron.ipynb)
+  * [7.2.4 Modeling logic gates with perceptrons](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch7/7.2.4-modeling-logic-gates-with-perceptrons.ipynb)
+  * [7.4.3 Approximating surfaces with perceptrons](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch7/7.4.3-approximating-surfaces-with-perceptrons.ipynb)
+
+* Chapter 8
+  * [8.4 Forward and Backward pass](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch8/8.4-forward-and-backward-pass.ipynb)
+  * [8.5 Training a neural network](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch8/8.5-training-a-neural-network.ipynb)
