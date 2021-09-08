@@ -73,3 +73,8 @@ Note: Ensure to use Python3 to run the notebooks
 * Chapter 8
   * [8.4 Forward and Backward pass](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch8/8.4-forward-and-backward-pass.ipynb)
   * [8.5 Training a neural network](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch8/8.5-training-a-neural-network.ipynb)
+
+* Chapter 9
+  * [9.1 Loss Functions](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch9/9.1-loss-functions.ipynb)
+  * [9.2.3 Stochastic Gradient Descent](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch9/9.2.3-stochastic-gradient-descent.ipynb)
+  * [9.2.4 Momentum](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch9/9.2.4-momentum.ipynb)
