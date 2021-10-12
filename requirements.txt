@@ -5,5 +5,5 @@ matplotlib==3.2.0
 numpy==1.16.5
 torch==1.8.1
 torchvision==0.9.1
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 sympy==1.4
