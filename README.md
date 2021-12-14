@@ -78,3 +78,9 @@ Note: Ensure to use Python3 to run the notebooks
   * [9.1 Loss Functions](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch9/9.1-loss-functions.ipynb)
   * [9.2.3 Stochastic Gradient Descent](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch9/9.2.3-stochastic-gradient-descent.ipynb)
   * [9.2.4 Momentum](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch9/9.2.4-momentum.ipynb)
+
+* Chapter 10
+  * [10.3.1 2D Convolution for image smoothing](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch10/10.3.1-2dconv-image-smoothing.ipynb)
+  * [10.3.2 2D Convolution for edge detection](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch10/10.3.2-2dconv-edge-detection.ipynb)
+  * [10.4.1 3D Convolution for motion detection](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch10/10.4.1-3dconv-motion-detection.ipynb)
+  * [10.5.3 Transpose Convolution for upsampling](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch10/10.5.3-transpose-conv-upsampling.ipynb)
