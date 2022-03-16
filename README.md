@@ -84,3 +84,12 @@ Note: Ensure to use Python3 to run the notebooks
   * [10.3.2 2D Convolution for edge detection](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch10/10.3.2-2dconv-edge-detection.ipynb)
   * [10.4.1 3D Convolution for motion detection](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch10/10.4.1-3dconv-motion-detection.ipynb)
   * [10.5.3 Transpose Convolution for upsampling](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch10/10.5.3-transpose-conv-upsampling.ipynb)
+
+* Chapter 11
+  * [11.2.1 Convolutional Neural Networks for Image Classification - LeNet](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch11/11.2.1-mnist-lenet.ipynb)
+  * [11.3.1 VGG (Visual Geometry Group) Net](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch11/11.3.1-vgg.ipynb)
+  * [11.3.2 Inception: Network in Network paradigm](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch11/11.3.2-inception.ipynb)
+  * [11.3.3 ResNet](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch11/11.3.3-resnet.ipynb)
+  * [11.3.4 PyTorch Lightning: LeNet](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch11/11.3.4-mnist-lenet-lightning.ipynb)
+  * [11.3.4 PyTorch Lightning: Deep CNN Classifier](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch11/11.3.4-hymenoptera-deep-classifier.ipynb)
+  * [11.5 Faster R-CNN](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch11/11.5-frcnn.ipynb)
