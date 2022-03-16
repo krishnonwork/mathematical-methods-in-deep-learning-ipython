@@ -7,3 +7,6 @@ torch==1.8.1
 torchvision==0.9.1
 opencv-python==4.1.1.26
 sympy==1.4
+pytorch-lightning==1.5.10
+torchmetrics==0.7.2
+torchsummary==1.5.1
