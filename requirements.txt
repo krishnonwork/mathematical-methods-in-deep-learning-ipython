@@ -2,8 +2,11 @@ future==0.18.2
 ipympl==0.5.7
 jupyter==1.0.0
 matplotlib==3.2.0
-numpy==1.16.5
+numpy==1.17.3
 torch==1.8.1
 torchvision==0.9.1
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 sympy==1.4
+pytorch-lightning==1.5.10
+torchmetrics==0.7.2
+torchsummary==1.5.1
