@@ -93,3 +93,11 @@ Note: Ensure to use Python3 to run the notebooks
   * [11.3.4 PyTorch Lightning: LeNet](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch11/11.3.4-mnist-lenet-lightning.ipynb)
   * [11.3.4 PyTorch Lightning: Deep CNN Classifier](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch11/11.3.4-hymenoptera-deep-classifier.ipynb)
   * [11.5 Faster R-CNN](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch11/11.5-frcnn.ipynb)
+
+* Chapter 13
+  * [13.2 Bayesian Inferencing for mean in Gaussian likelihood, known variance](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch13/13.2-bayesian-inference-unknown-mean.ipynb)
+  * [13.5.1 Gamma Distribution](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch13/13.5.1-gamma-distribution.ipynb)
+  * [13.5 Bayesian Inferencing of Precision of Gaussian likelihood, known Mean](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch13/13.5-bayesian-inference-unknown-variance.ipynb)
+  * [13.6 Bayesian Inferencing of both Mean and Precision of Gaussian likelihood](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch13/13.6-bayesian-inference-unknown-mean-variance.ipynb)
+  * [13.7 Statsville Revisited: Bayesian inferencing to predict if a Statsville resident is female based on height](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch13/13.7-statsville-revisited.ipynb)
+  * [13.8 Multivariate Bayesian Inferencing of Mean of Gaussian likelihood, known Precision](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch13/13.8-bayesian-inference-unknown-mean-multivariate.ipynb)
