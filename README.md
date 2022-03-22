@@ -101,3 +101,8 @@ Note: Ensure to use Python3 to run the notebooks
   * [13.6 Bayesian Inferencing of both Mean and Precision of Gaussian likelihood](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch13/13.6-bayesian-inference-unknown-mean-variance.ipynb)
   * [13.7 Statsville Revisited: Bayesian inferencing to predict if a Statsville resident is female based on height](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch13/13.7-statsville-revisited.ipynb)
   * [13.8 Multivariate Bayesian Inferencing of Mean of Gaussian likelihood, known Precision](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch13/13.8-bayesian-inference-unknown-mean-multivariate.ipynb)
+ 
+* Chapter 14
+  * [14.1 Principal Components Analysis (PCA) recap](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch14/14.1-pca.ipynb)
+  * [14.2 Auto Encoders](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch14/14.2-auto-encoders.ipynb)
+  * [14.4 Variational Auto Encoders](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch14/14.4-variational-auto-encoders.ipynb)
