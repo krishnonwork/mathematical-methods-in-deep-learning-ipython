@@ -10,3 +10,4 @@ sympy==1.4
 pytorch-lightning==1.5.10
 torchmetrics==0.7.2
 torchsummary==1.5.1
+scikit-learn==1.0.2
