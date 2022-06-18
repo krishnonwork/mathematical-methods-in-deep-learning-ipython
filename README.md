@@ -24,15 +24,15 @@ Note: Ensure to use Python3 to run the notebooks
 ## Table of Contents
 
 * Chapter 2:
-  * [2.2 Intro to Vectors](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.2-vector-numpy-pytorch-intro.ipynb)
-  * [2.4 Intro to Matrices, Tensors and Images](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.4-matrix-numpy-pytorch-intro.ipynb)
-  * [2.7 Basic Vector and Matrix operations](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.7-transpose-dot-matmul-numpy-pytorch.ipynb)
-  * [2.12.5 Solving an overdetermined system using pseudo inverse](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.12.5-overdet-numpy.ipynb)
-  * [2.13 Eigenvalues and Eigenvectors](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.13-eig-numpy.ipynb)
-  * [2.14 Rotation Matrices](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.14-rotation-numpy.ipynb)
-  * [2.15 Matrix Diagonalization](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.15-mat-diagonalization-numpy.ipynb)
-  * [2.16 Spectral Decomposition of a Symmetric Matrix](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.16-spectral-decomp-numpy.ipynb)
-  * [2.17 Finding the axes of a hyper-ellipse](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.17-hyper-ellipse-numpy.ipynb)
+  * [2.2 Intro to Vectors](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.2-vector-pytorch-intro.ipynb)
+  * [2.4 Intro to Matrices, Tensors and Images](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.4-matrix-pytorch-intro.ipynb)
+  * [2.7 Basic Vector and Matrix operations](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.7-transpose-dot-matmul.ipynb)
+  * [2.12.5 Solving an overdetermined system using pseudo inverse](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.12.5-overdet.ipynb)
+  * [2.13 Eigenvalues and Eigenvectors](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.13-eig.ipynb)
+  * [2.14 Rotation Matrices](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.14-rotation.ipynb)
+  * [2.15 Matrix Diagonalization](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.15-mat-diagonalization.ipynb)
+  * [2.16 Spectral Decomposition of a Symmetric Matrix](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.16-spectral-decomp.ipynb)
+  * [2.17 Finding the axes of a hyper-ellipse](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch2/2.17-hyper-ellipse.ipynb)
   
   
 * Chapter 3
