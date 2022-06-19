@@ -36,20 +36,20 @@ Note: Ensure to use Python3 to run the notebooks
   
   
 * Chapter 3
-  * [3.4 Common code for chapter 3](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4-common.ipynb)
-  * [3.4.1 Gradient Descent](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4.1-gradients-numpy-pytorch.ipynb)
-  * [3.4.2 Non-linear Models](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4.2-gradients-nonlinear-numpy-pytorch.ipynb)
-  * [3.4.3 A Linear Model for the cat-brain](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4.3-gradients-catbrain-numpy-pytorch.ipynb)
+  * [3.4 Common code for chapter 3](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4-common.ipynb)
+  * [3.4.1 Gradient Descent](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4.1-gradients.ipynb)
+  * [3.4.2 Non-linear Models](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4.2-gradients-nonlinear.ipynb)
+  * [3.4.3 A Linear Model for the cat-brain](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch3/3.4.3-gradients-catbrain.ipynb)
   
 * Chapter 4
-  * [4.3.2 Common code for chapter 4](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.3.2-common.ipynb)
-  * [4.3.2 PCA on synthetic correlated data](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.3.2-pca-numpy.ipynb)
-  * [4.3.2 PCA on synthetic uncorrelated data](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.3.2-pca-uncorrelated-numpy.ipynb)
-  * [4.3.3 PCA on synthetic correlated non-linear data](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.3.3-pca-nonlinear-numpy.ipynb)
-  * [4.4.4 Linear system solving via SVD](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.4.4-svd-linear-system-numpy.ipynb)
-  * [4.4.5 PCA computation via SVD](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.4.5-svd-pca-numpy.ipynb)
-  * [4.5.3 LSA on a toy dataset](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.5.3-svd-lsa-toy-dataset-numpy.ipynb)
-  * [4.5.4 LSA/SVD on a 500 × 3 dataset](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.5.4-svd-lsa-numpy.ipynb)
+  * [4.3.2 Common code for chapter 4](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.3.2-common.ipynb)
+  * [4.3.2 PCA on synthetic correlated data](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.3.2-pca.ipynb)
+  * [4.3.2 PCA on synthetic uncorrelated data](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.3.2-pca-uncorrelated.ipynb)
+  * [4.3.3 PCA on synthetic correlated non-linear data](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.3.3-pca-nonlinear.ipynb)
+  * [4.4.4 Linear system solving via SVD](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.4.4-svd-linear-system.ipynb)
+  * [4.4.5 PCA computation via SVD](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.4.5-svd-pca.ipynb)
+  * [4.5.3 LSA on a toy dataset](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.5.3-svd-lsa-toy-dataset.ipynb)
+  * [4.5.4 LSA/SVD on a 500 × 3 dataset](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch4/4.5.4-svd-lsa.ipynb)
 
 * Chapter 5
   * [5.9.1 Uniform Random Distribution](https://nbviewer.jupyter.org/github/krishnonwork/mathematical-methods-in-deep-learning-ipython/blob/master/python/ch5/5.9.1-uniform-random-distribution.ipynb)
