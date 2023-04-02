@@ -1,4 +1,4 @@
-future==0.18.2
+future==0.18.3
 ipympl==0.5.7
 jupyter==1.0.0
 matplotlib==3.2.0
