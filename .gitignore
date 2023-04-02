@@ -10,3 +10,4 @@ tags
 *.swp
 .DS_Store
 python/ch11/datasets/
+python/ch14/datasets/
