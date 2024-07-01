@@ -3,7 +3,7 @@ ipympl==0.5.7
 jupyter==1.0.0
 matplotlib==3.2.0
 numpy==1.21.5
-torch==1.13.0
+torch==1.13.1
 torchvision==0.14.0
 opencv-python==4.2.0.32
 sympy==1.4
